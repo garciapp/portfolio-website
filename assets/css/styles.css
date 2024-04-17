@@ -317,6 +317,7 @@ img {
 
 .home__title {
   font-size: var(--big-font-size);
+  color: var(--first-color)
 }
 
 .home__subtitle {
